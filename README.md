@@ -1,3 +1,0 @@
-# Interesting
-test
-nyobaa
